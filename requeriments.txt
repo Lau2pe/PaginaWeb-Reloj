@@ -1,0 +1,16 @@
+asgiref==3.7.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+crispy-bootstrap4==2023.1
+distlib==0.3.8
+Django==5.0
+django-crispy-forms==2.1
+filelock==3.13.1
+idna==3.7
+Pillow==10.1.0
+platformdirs==4.1.0
+requests==2.31.0
+sqlparse==0.4.4
+tzdata==2023.3
+urllib3==2.2.1
+virtualenv==20.25.0
